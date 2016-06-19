@@ -3,6 +3,7 @@
 This library implements suport for debounced digital inputs.
 
 For more information about this library please visit:
+https://github.com/zorxx/DebouncedInput
 
 == License ==
 
