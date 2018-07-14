@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-DebouncedInput	KEYWORD1        DebouncedInput
+DebouncedInput	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
